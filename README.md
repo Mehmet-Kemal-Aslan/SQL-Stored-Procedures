@@ -1,5 +1,6 @@
 # SQL-Stored-Procedures
 Eski bilgisayarım bozulunca SQL dosyalarını kabettim. Bunlar Saklı yordam kodları.
+
 I lost the SQL files when my old computer broke down. These are stored procedure codes.
 
 USE [Blog]
