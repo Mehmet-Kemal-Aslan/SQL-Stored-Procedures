@@ -3,6 +3,7 @@ Eski bilgisayarım bozulunca SQL dosyalarını kabettim. Bunlar Saklı yordam ko
 
 I lost the SQL files when my old computer broke down. These are stored procedure codes.
 
+```bash
 USE [Blog]
 GO
 /** Object:  StoredProcedure [dbo].[sp_Article]    Script Date: 16.1.2022 07:02:47 **/
@@ -84,3 +85,4 @@ BEGIN
 			and A.Date<'2021.10.01'
 	END
 END
+```
